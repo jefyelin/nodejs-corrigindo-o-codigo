@@ -1,7 +1,7 @@
 # Corrigindo o código - NodeJS
 
 Desafio 3 do Bootcamp da [Rocketseat](https://rocketseat.com.br/) - Ignite: NodeJS. Consiste em corrigir o código para que os testes unitários passem. 
-A aplicação é um CRUD de repositórios.
+A aplicação é uma API de CRUD para repositórios.
 
 ## Requisitos:
 
